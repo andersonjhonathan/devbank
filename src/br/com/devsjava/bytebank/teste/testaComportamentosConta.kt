@@ -1,6 +1,6 @@
-package br.com.alura.bytebank.teste
+package br.com.devsjava.bytebank.teste
 
-import br.com.alura.bytebank.modelo.Cliente
+import br.com.devsjava.bytebank.modelo.Cliente
 import br.com.devsjava.bytebank.modelo.ContaCorrente
 import br.com.devsjava.bytebank.modelo.ContaPoupanca
 

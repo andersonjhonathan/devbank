@@ -1,9 +1,9 @@
-package br.com.alura.bytebank.teste
+package br.com.devsjava.bytebank.teste
 
-import br.com.alura.bytebank.modelo.Cliente
+import br.com.devsjava.bytebank.modelo.Cliente
 import br.com.devsjava.bytebank.modelo.Diretor
 import br.com.devsjava.bytebank.modelo.Gerente
-import br.com.alura.bytebank.modelo.SistemaInterno
+import br.com.devsjava.bytebank.modelo.SistemaInterno
 
 fun testaAutenticacao() {
     val gerente = Gerente(

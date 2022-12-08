@@ -1,4 +1,4 @@
-package br.com.alura.bytebank.teste
+package br.com.devsjava.bytebank.teste
 
 import br.com.devsjava.bytebank.modelo.Endereco
 

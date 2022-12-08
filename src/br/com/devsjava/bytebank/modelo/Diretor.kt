@@ -1,7 +1,5 @@
 package br.com.devsjava.bytebank.modelo
 
-import br.com.alura.bytebank.modelo.FuncionarioAdmin
-
 class Diretor(
     nome: String,
     cpf: String,

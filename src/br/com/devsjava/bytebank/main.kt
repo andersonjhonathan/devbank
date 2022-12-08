@@ -1,6 +1,4 @@
-package br.com.alura.bytebank
-
-import br.com.alura.bytebank.teste.testaAny
+package br.com.devsjava.bytebank
 
 fun main() {
     println("início main")

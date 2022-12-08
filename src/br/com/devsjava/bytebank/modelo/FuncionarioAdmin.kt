@@ -1,4 +1,4 @@
-package br.com.alura.bytebank.modelo
+package br.com.devsjava.bytebank.modelo
 
 import br.com.devsjava.bytebank.modelo.Autenticavel
 import br.com.devsjava.bytebank.modelo.Funcionario

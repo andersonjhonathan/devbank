@@ -1,7 +1,5 @@
 package br.com.devsjava.bytebank.modelo
 
-import br.com.alura.bytebank.modelo.Cliente
-
 abstract class Conta(
     var titular: Cliente,
     val numero: Int

@@ -1,6 +1,6 @@
-package br.com.alura.bytebank.teste
+package br.com.devsjava.bytebank.teste
 
-import br.com.alura.bytebank.modelo.Cliente
+import br.com.devsjava.bytebank.modelo.Cliente
 import br.com.devsjava.bytebank.modelo.ContaCorrente
 import br.com.devsjava.bytebank.modelo.ContaPoupanca
 
@@ -16,7 +16,8 @@ fun testaCopiasEReferencias() {
 
     val contaJoao = ContaCorrente(joao, 1002)
     contaJoao.titular.nome = "João"
-    var contaMaria = ContaPoupanca(Cliente(
+    var contaMaria = ContaPoupanca(
+        Cliente(
         nome = "Maria",
         cpf = "",
         senha = 2
