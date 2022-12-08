@@ -1,6 +1,10 @@
 package br.com.alura.bytebank.teste
 
 import br.com.alura.bytebank.modelo.*
+import br.com.devsjava.bytebank.modelo.Autenticavel
+import br.com.devsjava.bytebank.modelo.Conta
+import br.com.devsjava.bytebank.modelo.ContaCorrente
+import br.com.devsjava.bytebank.modelo.ContaPoupanca
 
 fun testaObjects() {
     val fran = object : Autenticavel {

@@ -1,6 +1,6 @@
 package br.com.alura.bytebank.teste
 
-import br.com.alura.bytebank.modelo.Endereco
+import br.com.devsjava.bytebank.modelo.Endereco
 
 fun testaAny() {
     val endereco = Endereco(

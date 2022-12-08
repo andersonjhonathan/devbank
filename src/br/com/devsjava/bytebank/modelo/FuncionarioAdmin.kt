@@ -1,5 +1,8 @@
 package br.com.alura.bytebank.modelo
 
+import br.com.devsjava.bytebank.modelo.Autenticavel
+import br.com.devsjava.bytebank.modelo.Funcionario
+
 abstract class FuncionarioAdmin(
     nome: String,
     cpf: String,

@@ -1,4 +1,4 @@
-package br.com.alura.bytebank.modelo
+package br.com.devsjava.bytebank.modelo
 
 interface Autenticavel {
 

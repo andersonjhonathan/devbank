@@ -1,8 +1,8 @@
 package br.com.alura.bytebank.teste
 
 import br.com.alura.bytebank.modelo.Cliente
-import br.com.alura.bytebank.modelo.ContaCorrente
-import br.com.alura.bytebank.modelo.ContaPoupanca
+import br.com.devsjava.bytebank.modelo.ContaCorrente
+import br.com.devsjava.bytebank.modelo.ContaPoupanca
 
 fun testaCopiasEReferencias() {
     val numeroX = 10

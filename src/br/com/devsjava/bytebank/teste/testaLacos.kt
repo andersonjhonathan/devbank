@@ -1,4 +1,4 @@
-package br.com.alura.bytebank.teste
+package br.com.devsjava.bytebank.teste
 
 fun testaLacos() {
     var i = 0
